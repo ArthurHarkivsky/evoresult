@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.evoresult
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, data, data-jpa, http-client-test, java, java-application, jdbc-hikari, junit, logback, lombok, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, netty-server, openapi, postgres, properties, readme, security-annotations, security-jwt, serialization-jackson, shade, testcontainers]
